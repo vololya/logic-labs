@@ -1,0 +1,4 @@
+D:\logic lab 5\lab5\Debug\lab5.exe
+D:\logic lab 5\lab5\Debug\lab5.pdb
+D:\logic lab5\lab5\Debug\lab5.exe
+D:\logic lab5\lab5\Debug\lab5.pdb
