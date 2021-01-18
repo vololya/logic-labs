@@ -1,0 +1,2 @@
+D:\logic lab2\lab2\Debug\lab2.exe
+D:\logic lab2\lab2\Debug\lab2.pdb

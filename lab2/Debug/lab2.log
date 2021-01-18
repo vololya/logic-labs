@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\logic lab2\lab2\Source.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(95,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(118,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(132,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(148,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(167,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(187,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(199,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(211,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic lab2\lab2\Source.cpp(225,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.vcxproj -> D:\logic lab2\lab2\Debug\lab2.exe
