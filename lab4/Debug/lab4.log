@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\logic lab4\lab4\Source.cpp(47,9): warning C4476: "printf": неизвестный символ поля типа ":" в описателе формата
+D:\logic lab4\lab4\Source.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4.vcxproj -> D:\logic lab4\lab4\Debug\lab4.exe
