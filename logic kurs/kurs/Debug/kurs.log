@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\logic kurs\kurs\Source.cpp(77,10): warning C4476: "printf": неизвестный символ поля типа ":" в описателе формата
+D:\logic kurs\kurs\Source.cpp(81,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\logic kurs\kurs\Source.cpp(144,9): warning C4101: matrix: неиспользованная локальная переменная
+  kurs.vcxproj -> D:\logic kurs\kurs\Debug\kurs.exe

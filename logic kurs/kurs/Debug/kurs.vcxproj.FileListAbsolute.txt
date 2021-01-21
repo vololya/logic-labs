@@ -1,0 +1,2 @@
+D:\logic kurs\kurs\Debug\kurs.exe
+D:\logic kurs\kurs\Debug\kurs.pdb
